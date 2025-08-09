@@ -1,2 +1,3 @@
 *.pbix linguist-language=PowerBI
+*.ipynb linguist-language=Python
 PowerBI/* linguist-language=PowerBI
