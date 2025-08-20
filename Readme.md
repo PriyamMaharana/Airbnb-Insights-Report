@@ -27,31 +27,39 @@ The project workflow includes these key steps:
 
 The analysis yielded the following insights:
 
-### Overview
+#### Overview
 
 *   **Market Size and Density:** A comparison of the number of listings and their distribution across different neighborhoods in Chicago and New Orleans.
 *   **Property Type Prevalence:** Identifying the dominant property and room types in each city's Airbnb market (e.g., entire homes/apartments vs. private rooms).
 *   **Listing Availability:** Investigating patterns and trends in listing availability, possibly revealing seasonal fluctuations or high-demand periods.
+   <img width="1300" height="740" alt="Overview-Chicago" src="https://github.com/user-attachments/assets/c6c23203-1289-4480-91b4-6b1f4bc474ed" />
 
-### Property
+
+#### Property
 
 *   **Property Features and Pricing:** Examining the correlation between property features (number of bedrooms, bathrooms, amenities) and listing prices in each city.
 *   **Property Type Impact on Price:** Analyzing how different property types (e.g., entire home, private room, shared room) affect listing price distributions.
 *   **Minimum/Maximum Stays:** Understanding stay duration patterns and their influence on booking strategies.
+  <img width="1300" height="740" alt="Property-New_Orleans" src="https://github.com/user-attachments/assets/14c14102-8eeb-4acf-97e7-6f89e66c3246" />
 
-### Price
+
+#### Price
 
 *   **Neighborhood-Based Price Variation:** Identifying the neighborhoods with the highest and lowest average listing prices in each city.
 *   **Seasonal Pricing Trends:** Analyzing price fluctuations across different seasons to identify peak and off-peak periods.
 *   **Factors Influencing Price:** Determining the key factors (location, property type, amenities, reviews) that most significantly impact listing prices in Chicago and New Orleans.
+  <img width="1300" height="740" alt="Price-Chicago" src="https://github.com/user-attachments/assets/85c9408d-5d44-4904-b2e9-5a500362a1ea" />
 
-### Hosting
+
+#### Hosting
 
 *   **Host Response Metrics:** Investigating host response times and rates, and their relationship with reviews and overall guest experience.
 *   **Host Listing Concentration:** Exploring the distribution of listings among individual hosts and potential professional hosting services.
 *   **Host Profile Analysis:** Studying the characteristics of hosts (e.g., superhost status) and their influence on listing performance.
+  <img width="1300" height="740" alt="Hosting-Chicago" src="https://github.com/user-attachments/assets/fa9e3d84-e1bb-46e8-98b5-3a284c2f901e" />
 
-### Tools and Technologies
+
+#### Tools and Technologies
 
 *   **Programming Language:** Python
 *   **Libraries:** Pandas, Numpy
